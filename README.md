@@ -98,4 +98,4 @@ The full story is on dev.to: [link to be added when published]
 
 ---
 
-*By La Shara Cordero. AI-assisted, human approved.*
+*By La Shara Cordero. AI-assisted, human approved. Powered by NLP.*
