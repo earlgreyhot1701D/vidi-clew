@@ -1,7 +1,6 @@
 # Vidi Clew
 
-<!-- Logo will go here once finalized -->
-<!-- ![Vidi Clew](./logo.png) -->
+![Vidi Clew](./logo.jpg)
 
 *A prompt that turns Claude Code into a plain-language workshop helper for non-technical builders.*
 
