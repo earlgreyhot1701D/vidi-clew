@@ -94,7 +94,7 @@ If you're using a plain chat with no filesystem access (the Claude.ai web app, C
 
 Built during Code with Claude Extended in San Francisco on May 7, 2026.
 
-The full story is on dev.to: [link to be added when published]
+The full story is on dev.to: [Code with Claude Extended SF: Heck Yeah, and Wait, What?](https://dev.to/earlgreyhot1701d/code-with-claude-extended-sf-heck-yeah-and-wait-what-5dbd)
 
 ---
 
