@@ -1,6 +1,6 @@
 # Vidi Clew
 
-![Vidi Clew](./logo.jpg)
+<img src="./logo.jpg" alt="Vidi Clew" width="300">
 
 *A prompt that turns Claude Code into a plain-language workshop helper for non-technical builders.*
 
